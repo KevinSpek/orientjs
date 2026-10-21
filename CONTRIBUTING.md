@@ -32,7 +32,7 @@ And have a look at `coverage/lcov-report/index.html`.
 
 ## Git Workflow For Contributors
 
-> If you are new to git and github, you might want to first check out [github help](http://help.github.com/), [learn git](http://gitref.org/) or learn something about [git internal data model](http://nfarina.com/post/9868516270/git-is-simpler).
+> If you are new to git and github, you might want to first check out [github help](http://help.github.com/), [learn git](https://coddy.tech/git-commands) or learn something about [git internal data model](http://nfarina.com/post/9868516270/git-is-simpler).
 
 
 
@@ -84,7 +84,7 @@ Unit tests are always welcome. Tested and well covered code greatly simplifies t
 
 ### 7. Commit your changes
 
-add the files/changes you want to commit to the [staging area](http://gitref.org/basic/#add) with
+add the files/changes you want to commit to the [staging area](https://coddy.tech/git-commands/git-add) with
 
 ```sh
 git add path/to/my/file.js
